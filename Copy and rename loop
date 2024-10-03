@@ -1,0 +1,1 @@
+for %x in ("file name 1" "file name 2" "file name 3") do copy ".xlsx" "\%~x.xlsx"
